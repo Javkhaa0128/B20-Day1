@@ -1,1 +1,7 @@
-file1.text
+This is day1
+
+We created a git repository at desktop called B20-day1
+
+We added one file inside called file1.txt
+Git automatically detected the changes
+We committed this changes into local repository
